@@ -9,12 +9,12 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/SAIFDEAD/SAIFROBOT",
+   "repository": "https://github.com/AnshXd8/SAIFROBOT",
    "stack": "heroku-22",
    "addons": [
       {
          "options": {
-            "version": "12"
+            "version": "15"
          },
          "plan": "heroku-postgresql"
       }
