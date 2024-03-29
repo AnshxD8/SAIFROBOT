@@ -1,36 +1,36 @@
 
 <h3 align="center">
-    ─「 ●𝐍αяυтσ ✘ 𝐑σвσт● 🫧 」─
+    ─「 ●𝐀ηѕн ✘ 𝐑σвσт● 🫧 」─
 </h3>
 
 <p3 align="center">
-               <img src="https://telegra.ph/file/ee8ac17daa63d59d36e8c.jpg"width="500">
+               <img src="https://te.legra.ph/file/d0415b01fa2db47da064c.jpg"width="500">
 </h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+●+𝐍αяʋтσ+✘+𝐑σвσт+🫧+」+──;𝙰𝙽+𝙰𝙳𝚅𝙰𝙽𝙲𝙴𝙳+𝙶𝚁𝙾𝚄𝙿𝚂+𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃+𝙱𝙾𝚃+💕&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+●+𝐀ηѕн+✘+𝐑σвσт+🫧+」+──;𝙰𝙽+𝙰𝙳𝚅𝙰𝙽𝙲𝙴𝙳+𝙶𝚁𝙾𝚄𝙿𝚂+𝙼𝙰𝙽𝙰𝙶𝙴𝙼𝙴𝙽𝚃+𝙱𝙾𝚃+💕&width=600&height=180">
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SAIFDEAD/SAIFROBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="300" height="40.0"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ANSHXDZ/ANSHROBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="300" height="40.0"/></a></p>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SAIFDEAD&repo=NARUTO-ROBOT&theme=flag-india)
-[![GIF](https://github.com/SAIFDEAD/NARUTO-ROBOT/blob/main/SAIFDEAD.gif)] ㅤ ㅤㅤ
-
-
-# Contact 💖😎
-<a href="https://t.me/SAIF_DICTATOR"><img title="𝐃ιcтαтσя" src="https://img.shields.io/badge/𝐃ιcтaтor-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-
-<a href="https://t.me/SAIFHELPGC"><img title="𝐃ιcтαтσя" src="https://img.shields.io/badge/𝙶𝚁𝙾𝚄𝙿-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-
-<a href="https://t.me/SAIFALLBOT"><img title="𝐃ιcтαтσя" src="https://img.shields.io/badge/𝙰𝙱𝙾𝚄𝚃-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ANSHXDZ&repo=ANSH-ROBOT&theme=flag-india)
+[![GIF](https://github.com/ANSHXDZ/ANSH-ROBOT/blob/main/ANSHXDZ.gif)] ㅤ ㅤㅤ
 
 
-   [![⚡𝙽𝙰𝚁𝚄𝚃𝙾⚡](https://github-stats-alpha.vercel.app/api?username=SAIFDEAD "SAIF")](https://github-stats-alpha.vercel.app/api?username=SAIFDEAD   "NARUTO-ROBOT")
+# 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 ❤💝
+<a href="https://t.me/ANSH_XD8"><img title="𝐀ηѕн" src="https://img.shields.io/badge/𝐀ηѕн-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
+<a href="https://t.me/THE_CASTLESS"><img title="𝐀ηѕн" src="https://img.shields.io/badge/𝙶𝚁𝙾𝚄𝙿-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
+<a href="https://t.me/THE_CASTLESS"><img title="𝐀ηѕн" src="https://img.shields.io/badge/𝙰𝙱𝙾𝚄𝚃-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
+
+   [![⚡𝐀ηѕн⚡](https://github-stats-alpha.vercel.app/api?username=ANSHXDZ "ANSH")](https://github-stats-alpha.vercel.app/api?username=ANSHXDZ   "ANSH-ROBOT")
                   
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAIFDEAD&show_icons=true&locale=en&layout=compact" alt="SAIFDEAD" 
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ANSHXDZ&show_icons=true&locale=en&layout=compact" alt="ANSHXDZ" 
 
 <p3 align="center">
-  <img src="https://telegra.ph/file/c92b91e44e9174f083448.jpg"width="600">
+  <img src="https://te.legra.ph/file/5cea919b5057573a849b5.jpg"width="600">
 </h3>
 
 
@@ -39,6 +39,6 @@
 
 
 
-# SAIFDEAD OP BOLTE HAII 
+# 𝐀𝐍𝐒𝐇 𝐓𝐎 𝐎𝐏 𝐇𝐀𝐈 𝐇𝐈 😎
 
-# I AM HAPPY ☹️
+# 𝐉𝐀𝐋𝐖𝐀 𝐇𝐀𝐈 𝐇𝐀𝐌𝐀𝐑𝐀 🙏
