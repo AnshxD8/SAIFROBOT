@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 *ʜᴇʏ* {}, 🥀
 
-*๏ ᴛʜɪs ɪs* {} ! ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ sᴀɪғ
+*๏ ᴛʜɪs ɪs* {} ! ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ 𝐀ηѕн
 ➻ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 
 ──────────────────
@@ -97,7 +97,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text=" ᴏᴡɴᴇʀ ", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="♨️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ♨️", url=f"https://t.me/SAIF_DICTATOR"),
+        InlineKeyboardButton(text="♨️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ♨️", url=f"https://t.me/ansh_xd8"),
     ],
 ]
 
@@ -400,7 +400,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                             text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/SAIFALLBOT"
+                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/THE_CASTLESS"
                         ),
                     ],
                     [
@@ -444,7 +444,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
 ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](https://www.sqlalchemy.org) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-ʜᴇʀᴇ ɪs ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [sᴀɪғ](https:/t.me/SAIF_DICTATOR)
+ʜᴇʀᴇ ɪs ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ : [𝐀ηѕн](https:/t.me/ansh_xd8)
 
 
 {BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/SAIFDEAD/SAIFROBOT/blob/master/LICENSE).
@@ -718,7 +718,7 @@ def main():
 ㅤ🥀 {BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ...
 
 ┏•❅────✧❅✦❅✧────❅•┓
-★    **ᴏᴡɴᴇʀ :** [sᴀɪғ](https://t.me/SAIF_DICTATOR)
+★    **ᴏᴡɴᴇʀ :** [𝐀ηѕн](https://t.me/ansh_xd8)
 ㅤ★ **ᴘʏᴛʜᴏɴ :** `{y()}`
 ㅤ★ **ʟɪʙʀᴀʀʏ :** `{telever}`
 ㅤ★ **ᴛᴇʟᴇᴛʜᴏɴ :** `{tlhver}`
