@@ -97,7 +97,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text=" ᴏᴡɴᴇʀ ", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="♨️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ♨️", url=f"https://t.me/ansh_xd8"),
+        InlineKeyboardButton(text=" 𝐂σÐҼʀ 📿🧿 ", url=f"https://t.me/ansh_xd8"),
     ],
 ]
 
