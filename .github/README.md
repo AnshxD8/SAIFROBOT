@@ -12,8 +12,8 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnshxD8/SAIFROBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="300" height="40.0"/></a></p>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SAIFDEAD&repo=ANSH-ROBOT&theme=flag-india)
-[![GIF](https://github.com/SAIFDEAD/NARUTO-ROBOT/blob/main/ANSHXDZ.gif)] ㅤ ㅤㅤ
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anshxd8&repo=ANSH-ROBOT&theme=flag-india)
+[![GIF](https://github.com/anshxd8/NARUTO-ROBOT/blob/main/ANSHXD8.gif)] ㅤ ㅤㅤ
 
 
 # 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 ❤💝
